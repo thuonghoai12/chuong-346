@@ -17,6 +17,6 @@ sum_02 = hang_chuc_02 + hang_don_vi_02
 
 hang_chuc_03 = sum_02 // 10
 hang_don_vi_03 = sum_02 % 10
-sum_03 = hang_chuc_03 = hang_don_vi_03
+sum_03 = hang_chuc_03 + hang_don_vi_03
 
 print(f"Số xe của bạn có {sum_03} nút!")
